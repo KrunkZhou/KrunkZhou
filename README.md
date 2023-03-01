@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **KrunkZhou/KrunkZhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+
+- 💬 Talk with me by [Email](mailto:webmaster@krunk.cn)
+- 🔭 Discover more in my [Blog](https://krunk.cn/)
+
+🏗 **Definitions**
+
+```js
+const KrunkZ = {
+  coding: ["JavaScript", "Golang", "Python", "PHP", "Flutter", "C++"],
+  technologies: {
+    frontEnd: {
+      web: ["ReactJS", "VueJS"],
+      app: ["Flutter", "H5App"]
+    },
+    backEnd: ["Node", "Express", "PHP", "Golang"],
+    databases: ["MySQL", "MongoDB", "influxDB"]
+  }
+}
+```
