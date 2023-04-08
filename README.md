@@ -28,8 +28,10 @@ const KrunkZ = {
       web: ["ReactJS", "VueJS"],
       app: ["Flutter", "H5App"]
     },
-    backEnd: ["Node", "Express", "PHP", "Golang"],
-    databases: ["MySQL", "MongoDB", "influxDB"]
+    backEnd: ["Node", "Express", "PHP", "Golang", "Flusk"],
+    databases: ["MySQL", "MongoDB", "influxDB"],
+    other: ["Docker", "Arduino", "Windows/Linux Servers"]
   }
 }
 ```
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/krunk) 
