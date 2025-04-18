@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 
 ```js
 const KrunkZ = {
-  coding: ["JavaScript", "TypeScript", "Python", "PHP", "Dart", "C++", "Golang", "Swift"],
+  coding: ["JavaScript", "TypeScript", "Python", "PHP", "Dart", "C++", "Golang", "Swift", "Java"],
   technologies: {
     frontEnd: {
       web: ["ReactJS", "VueJS", "H5"],
       app: ["Flutter", "Swift", "React Native", "H5App"]
     },
     backEnd: ["NodeJs", "ExpressJs", "PHP", "Golang", "Flusk"],
-    databases: ["MySQL", "MongoDB", "influxDB"],
+    databases: ["MySQL", "MongoDB", "InfluxDB"],
     other: ["Docker", "Arduino", "Windows/Linux Servers", "JupyterLab"]
   }
 }
